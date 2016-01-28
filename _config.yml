@@ -1,0 +1,28 @@
+name: TestingRJ
+favicon: null
+layout_spectrum: 0.5819163587875664
+typography_spectrum: 0.3139920476824045
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5206750987563282
+  lightness: 0.11504589323885739
+  saturation: 0.19820953533053398
+  rhythmicContrast: 0.675104928901419
+purpose: []
