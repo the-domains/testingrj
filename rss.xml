@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TestingRJ]]></title>
+        <description><![CDATA[TestingRJ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 06:38:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ Beowulf: Return to the Shieldlands ]]></title>
+            <description><![CDATA[<article><h1> Beowulf: Return to the Shieldlands </h1><p>Set in Scandinavia. Beowulf, a hero of the Geats, comes to the aid of Hrothgar, the king of the Danes, whose mead hall in Heorot has been under attack by a monster known as Grendel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cc64c030d446015248f8c4ce037e958274f7368.jpg"></article>]]></description>
+            <link>undefinedbeowulf-return-to-the-shieldlands/index.html</link>
+            <guid isPermaLink="false">7e6095fa-da03-403b-b97e-9415691765d5</guid>
+            <pubDate>Thu, 28 Jan 2016 06:38:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
