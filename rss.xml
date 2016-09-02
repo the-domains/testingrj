@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TestingRJ]]></title>
         <description><![CDATA[TestingRJ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testingrj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 06:38:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 04:41:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testingrj/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ Beowulf: Return to the Shieldlands ]]></title>
-            <description><![CDATA[<article><h1> Beowulf: Return to the Shieldlands </h1><p>Set in Scandinavia. Beowulf, a hero of the Geats, comes to the aid of Hrothgar, the king of the Danes, whose mead hall in Heorot has been under attack by a monster known as Grendel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cc64c030d446015248f8c4ce037e958274f7368.jpg"></article>]]></description>
-            <link>undefinedbeowulf-return-to-the-shieldlands/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee0c3ea73d53383b5c1341be1db038ee492d88c6.jpg" alt="fallout 4">]]></description>
+            <link>https://thegrid.ai/testingrj/beowulf-return-to-the-shieldlands/index.html</link>
             <guid isPermaLink="false">7e6095fa-da03-403b-b97e-9415691765d5</guid>
-            <pubDate>Thu, 28 Jan 2016 06:38:46 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 04:41:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
